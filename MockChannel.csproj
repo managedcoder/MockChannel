@@ -144,6 +144,7 @@
     <None Include="Properties\PublishProfiles\EchoBotMockChannel - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\MockChannel - Web Deploy.pubxml" />
     <Content Include="default.cshtml" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
